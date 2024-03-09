@@ -10,6 +10,7 @@ function App() {
         <p>
           Knowledge is the eye of desire and can become the pilot of the soul.
         </p>
+    <h2>Edited By Mukesh</h2>
         <a
           className="App-link"
           href="https://reactjs.org"
